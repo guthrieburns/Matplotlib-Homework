@@ -1,0 +1,5 @@
+1) From my bubble plot one trend I have noticed was that Urban areas on average have a larger number of rides(size of the bubbles) and have a larger spread in the number of drivers.
+
+2) From my pie charts a trend I noticed was that there is a similar ratio to total amount of rides in a city to the total number of drivers in a city(based on the bottom 2 pie charts having similar pie chart wedge sizes).
+
+3) Another trend from the Bubble plot I saw was that rural towns on average have fewer then 10 ride share drivers.
